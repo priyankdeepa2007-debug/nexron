@@ -1,0 +1,6 @@
+{
+  "name": "GradeChain - Tamper-Evident Agri QA & Canonical Ledger",
+  "description": "Tamper-evident agricultural QA canonical ledger for APMC Mandis, featuring physical quality assay grading, blind buyer re-check, cryptographic verification walk, and assayer reputation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
